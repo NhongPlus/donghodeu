@@ -1,0 +1,36 @@
+.hahaha{
+    display: flex;
+    font-size: 62px;
+    justify-content: center;
+}
+.hahaha span{
+    font-size: 28px;
+    margin-top: 40px;
+}
+.hahaha div{
+    margin-left: 20px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    
+}
+.button button{
+    cursor: pointer;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    padding: 6px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.active{
+    display: block;
+}
+.hidden{
+    display: none;
+}
+.container{
+    justify-content: center;
+}
